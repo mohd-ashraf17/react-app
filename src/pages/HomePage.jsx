@@ -13,7 +13,7 @@ const HomePage = () => {
             <Link to="/cart"><button className="px-3 py-1 bg-yellow-500 hover:bg-yellow-600 rounded-full mt-2 text-white font-bold">Order now</button></Link>
           </div>
           <div className="w-1/2">
-            <img className="w-4/5 ml-3" src="/img/hero.png" alt="pizza"/>
+            <img className="w-4/5 ml-3" src="/react-app/img/hero.png" alt="pizza"/>
           </div>
         </div>
       </div>

@@ -15,7 +15,7 @@ const Navigation = () => {
       <div className="container mx-auto flex items-center justify-between py-2 px-2 sticky top-0 z-10 bg-white">
         <div className="flex items-center">
           <Link to="/">
-            <img style={{ height: 80 }} src="/img/pizza2.png" alt="" />
+            <img style={{ height: 80 }} src="/react-app/img/pizza2.png" alt="" />
           </Link>
           <h2 className="ml-2 hidden sm:block">Pizza</h2>
         </div>
@@ -30,7 +30,7 @@ const Navigation = () => {
             <Link to="/cart">
               <div style={cartStyle}>
                 <span className="mr-2 text-white">{ cart.TotalQty ? cart.TotalQty : 0 }</span>
-                <img src="/img/cart.svg" alt="cart" />
+                <img src="/react-app/img/cart.svg" alt="cart" />
               </div>
             </Link>
           </li>
