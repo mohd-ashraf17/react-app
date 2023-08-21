@@ -4,49 +4,49 @@
     "name": "Margherita",
     "price": 400,
     "size": "large",
-    "image": "/public/img/pizza1.avif"
+    "image": "/react-app/public/img/pizza1.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97703",
     "name": "Tomato Pizzas",
     "price": 300,
     "size": "small",
-    "image": "/public/img/pizza2.png"
+    "image": "/react-app/public/img/pizza2.png"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97704",
     "name": "Cheese Pizza",
     "price": 500,
     "size": "medium",
-    "image": "/public/img/pizza3.avif"
+    "image": "/img/pizza3.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97705",
     "name": "Vegetable Pizza",
     "price": 250,
     "size": "small",
-    "image": "/public/img/pizza4.png"
+    "image": "/img/pizza4.png"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97706",
     "name": "Paneer Pizza",
     "price": 350,
     "size": "large",
-    "image": "/public/img/pizza5.avif"
+    "image": "c/img/pizza5.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97707",
     "name": "Hawaiian Pizza",
     "price": 500,
     "size": "large",
-    "image": "/public/img/pizza6.avif"
+    "image": "/img/pizza6.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97708",
     "name": "Margherita",
     "price": 400,
     "size": "large",
-    "image": "/public/img/pizza7.avif"
+    "image": "/img/pizza7.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97709",
