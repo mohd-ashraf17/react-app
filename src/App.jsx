@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <>
-      <Router>
+      <Router basename={import.meta.env.DEV ? "/" : "/react-app/"}>
         <CartContext.Provider value={{ cart, setCart }}>
           <Navigation />
           <Routes>
