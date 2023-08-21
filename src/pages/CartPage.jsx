@@ -117,7 +117,7 @@ const CartPage = () => {
       <h2 className="text-center mt-8">Please add items in cart</h2>
       <img
         className="mx-auto mt-12 w-2/3"
-        src="/img/emptyCart.avif"
+        src="/react-app/img/emptyCart.avif"
         alt="emptyCart"
       />
     </div>
