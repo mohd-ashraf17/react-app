@@ -4,14 +4,14 @@
     "name": "Margherita",
     "price": 400,
     "size": "large",
-    "image": "/react-app/public/img/pizza1.avif"
+    "image": "/pizza1.avif"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97703",
     "name": "Tomato Pizzas",
     "price": 300,
     "size": "small",
-    "image": "/react-app/public/img/pizza2.png"
+    "image": "/pizza2.png"
   },
   {
     "_id": "64c8e4aba483ebf4d0b97704",
